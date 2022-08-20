@@ -1,2 +1,2 @@
 # telescrapy
-Telegram Group Scraper Tool
+Telegram Group Scraper Tool using the official telegram API.
